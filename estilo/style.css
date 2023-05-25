@@ -148,7 +148,7 @@ body {
 }
 
 #container_livros a {
-  font-family: sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   border-radius: 8px;
   background: #4a8bfb;
   color: white;
